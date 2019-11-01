@@ -107,7 +107,7 @@ extern "C" {
 /** Pin: WIFI ON */
 #define CYBSP_WIFI_WL_REG_ON        (P2_6)
 /** Pin: WIFI Host Wakeup */
-#define CYBSP_WIFI_HOST_WAKE        (P0_3)
+#define CYBSP_WIFI_HOST_WAKE        (P0_4)
 
 /** Pin: BT UART RX */
 #define CYBSP_BT_UART_RX            (P3_0)
